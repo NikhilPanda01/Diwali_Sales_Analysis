@@ -43,7 +43,7 @@ Approach:
 4. Time Series Analysis: deployed time series techniques to uncover patterns and trends over a continuous sequence of time data.
 
 5. Insights and Recommendations: Summarize the findings in a comprehensive report, and provide actionable recommendations to address sales decline and improve business performance.
-6. Link For [ipynb_file.]()
+6. Link For [ipynb_file.](https://github.com/NikhilPanda01/Diwali_Sales_Analysis_Using_Python/blob/main/1.Diwali_Sales_Analysis.ipynb)
 # Conclusion:
 The following are the conclusions drawn from analyzing this dataset.
 
